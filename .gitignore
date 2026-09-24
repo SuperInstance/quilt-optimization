@@ -15,3 +15,14 @@ dist/
 
 # cuOpt
 cuopt/
+
+# added by commit-and-push-all
+*.pyd
+.eggs/
+target/
+node_modules/
+.cache/
+.wrangler/
+.DS_Store
+*.log
+.env
